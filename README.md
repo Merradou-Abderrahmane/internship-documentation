@@ -7,4 +7,6 @@ I worked on the websites mentioned below :
 
 ![takweenpro](https://user-images.githubusercontent.com/92019711/180028904-a50d1e0f-2109-4230-a253-70ea894d36ef.png)
 
-- [Patterna](https://patterna.ma/)
+- [Patterna](https://patterna.ma/) the online presence of firm that makes art motifs.
+
+![patterna screenshot](https://user-images.githubusercontent.com/92019711/182626563-6ce778a7-ba7a-41fe-a3b6-731c41881a01.png)
